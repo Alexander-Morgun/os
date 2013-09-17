@@ -1,1 +1,3 @@
 text
+str1
+str2
