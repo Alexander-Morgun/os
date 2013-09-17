@@ -1,3 +1,1 @@
-hello
-str1
-str2
+nothing here
